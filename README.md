@@ -12,3 +12,7 @@ GIT
  - git config --local user.email "<Your email>"
  - git config --local credential.helper cache
 
+ TO DO:
+
+   - auto update remote
+
