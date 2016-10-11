@@ -11,8 +11,9 @@ GIT
  - git config --local user.name "<Your Name>"
  - git config --local user.email "<Your email>"
  - git config --local credential.helper cache
+ - git config --local remote.origin.url --> autologon
 
  TO DO:
 
-   - auto update remote
+   - auto update remote - for things other than github
 
